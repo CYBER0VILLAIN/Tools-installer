@@ -2,7 +2,7 @@
 300+ TOOLS IN 1
 
 
-COMMAND LIST 
+ # COMMAND LIST 
 $apt update && apt upgrade
 $pkg install python python2 vim figlet curl
 $pkg install php
